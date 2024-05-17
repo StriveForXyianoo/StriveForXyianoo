@@ -1,6 +1,6 @@
 ## 🌐 Portfolio Website
 You can check out my portfolio website [here](https://kent-d-striver.netlify.app)
-https://gitroll.io/profile/u0pwnCFq9jpQtLPKfqJmRAfjpUF02
+<a href="https://gitroll.io/profile/u0pwnCFq9jpQtLPKfqJmRAfjpUF02">Gitroll</a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mr.alexyiankhyaemazael) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alexyianoooo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kent-cortiguerra-70b69a250/)  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/alexyiankhyae) 
 
